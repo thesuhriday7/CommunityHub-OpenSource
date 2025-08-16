@@ -25,7 +25,7 @@ function Home() {
       text2: "Click proceed to go ahead",
       btn1Text: "Proceed",
       btn2Text: "Cancel",
-      btn1Handler: () => {window.location.href="https://github.com/thesuhriday7"},
+      btn1Handler: () => {window.location.href="https://github.com/thesuhriday7/CommunityHub-OpenSource"},
       btn2Handler: () => setConfirmationModal(null),
     })
   },[])
