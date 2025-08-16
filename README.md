@@ -1,6 +1,6 @@
-# [StudyNotion - EdTech Platform](https:///)
+<!-- # [StudyNotion - EdTech Platform](https:///)
 
-StudyNotion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
+CommunityHub OpenSource is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 ## Table of Contents
 
@@ -14,19 +14,19 @@ StudyNotion is a fully functional EdTech platform that enables users to create, 
 - Dependencies
 - Folder Structure
 - Contributing
-- Contact
+- Contact -->
 
-## Introduction
+<!-- ## Introduction
 
-StudyNotion aims to provide a seamless and interactive learning experience for students, making education more accessible and engaging. Additionally, the platform serves as a platform for instructors to showcase their expertise and connect with learners across the globe.
+CommunityHub OpenSource aims to provide a seamless and interactive learning experience for students, making education more accessible and engaging. Additionally, the platform serves as a platform for instructors to showcase their expertise and connect with learners across the globe. -->
 
 ## System Architecture
 
-The StudyNotion EdTech platform consists of three main components: the front-end, the back-end, and the database. The platform follows a client-server architecture, with the front-end serving as the client and the back-end and database serving as the server.
+The CommunityHub OpenSource platform consists of three main components: the front-end, the back-end, and the database. The platform follows a client-server architecture, with the front-end serving as the client and the back-end and database serving as the server.
 
 ### Front-end
 
-The front end of StudyNotion has all the necessary pages that an ed-tech platform should have. Some of these pages are:
+The front end of CommunityHub OpenSource has all the necessary pages that an ed-tech platform should have. Some of these pages are:
 
 #### For Students:
 
@@ -54,7 +54,7 @@ The front end of StudyNotion has all the necessary pages that an ed-tech platfor
 
 ### Back-end
 
-The back end of StudyNotion provides a range of features and functionalities, including:
+The back end of CommunityHub OpenSource provides a range of features and functionalities, including:
 
 - **User authentication and authorization**: Students and instructors can sign up and log in to the platform using their email addresses and password. The platform also supports OTP (One-Time Password) verification and forgot password functionality for added security.
 - **Course management**: Instructors can create, read, update, and delete courses, as well as manage course content and media. Students can view and rate courses.
@@ -66,14 +66,14 @@ The back end of StudyNotion provides a range of features and functionalities, in
 
 The StudyNotion platform's API is designed following the REST architectural style. The API is implemented using Node.js and Express.js. It uses JSON for data exchange and follows standard HTTP request methods such as GET, POST, PUT, and DELETE.
 
-## Installation
+<!-- ## Installation
 
 To install the StudyNotion platform, follow these steps:
 
 - Clone the repository: `git clone `
-- Navigate to the project directory: `cd StudyNotion`
+- Navigate to the project directory: `cd CommunityHub OpenSource`
 - Install backend dependencies: `cd Server && npm install`
-- Install frontend dependencies: `cd .. && npm install`
+- Install frontend dependencies: `cd .. && npm install` -->
 
 
 ## Configuration
