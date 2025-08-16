@@ -1,6 +1,6 @@
 // const dotenv = require("dotenv");
 // dotenv.config();
-const BASE_URL = "http://localhost:4000/api/v1"
+const BASE_URL = "https://community-hub-open-source.vercel.app/api/v1"
 
 // AUTH ENDPOINTS
 export const endpoints = {
