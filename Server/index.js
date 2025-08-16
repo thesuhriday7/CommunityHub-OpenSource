@@ -41,12 +41,11 @@ app.use(cookieParser());
 //To allow backend to entertain req from frontend
 app.use(
   cors({
-    //frontend url
-    origin:"*",
-    credentials:true,
+    origin: "https://community-hub-open-source-t8xl.vercel.app", // your frontend URL
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    credentials: true,
   })
 );
-
 app.use(
   fileUpload({
     useTempFiles:true,
