@@ -41,8 +41,10 @@ app.use(cookieParser());
 //To allow backend to entertain req from frontend
 app.use(
   cors({
-    origin: "https://community-hub-open-source-t8xl.vercel.app", // your frontend URL
-    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    origin:["https://community-hub-open-source-t8xl.vercel.app",
+      "http://localhost:3000"
+    ], // your frontend URL
+    // methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     credentials: true,
   })
 );
