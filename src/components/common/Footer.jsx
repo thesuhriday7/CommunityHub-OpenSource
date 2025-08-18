@@ -3,7 +3,7 @@ import { FooterLink2 } from "../../data/footer-links";
 import { Link } from "react-router-dom";
 
 // Images
-import Logo from "../../assets/Logo/Logo-Full-Light.png";
+import Logo from "../../assets/Logo/CommunityHub OpenSource Logo Design.png";
 
 // Icons
 import { FaFacebook, FaGoogle, FaTwitter, FaYoutube } from "react-icons/fa";
@@ -32,7 +32,7 @@ const Footer = () => {
             <div className="w-[30%] flex flex-col gap-3 lg:w-[30%] mb-7 lg:pl-0">
               <img src={Logo} alt="" className="object-contain" />
               <h1 className="text-richblack-50 font-semibold text-[16px]">
-                Company
+                {/* Company */}
               </h1>
               <div className="flex flex-col gap-2">
                 {["About", "Careers", "Affiliates"].map((ele, i) => {
