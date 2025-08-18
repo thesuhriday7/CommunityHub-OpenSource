@@ -115,7 +115,7 @@ To install the CommunityHub OpenSource platform, follow these steps:
 
 ## Preview
 
-You can preview the CommunityHub OpenSource platform at [https:///](https://community-hub-open-source-t8xl.vercel.app/)
+You can preview the CommunityHub OpenSource platform at [https://community-hub-open-source-t8xl.vercel.app/](https://community-hub-open-source-t8xl.vercel.app/)
 
 <!-- [![Study Notion](https://i.ibb.co/qgS4v33/work1.png)](https://study-notion-seven-nu.vercel.app/)
 
